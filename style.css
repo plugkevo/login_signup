@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h2{
+    
+}
+.main{
+   width: 15cm; 
+   height: 12cm;
+   background-color: rgb(217, 0, 255);
+   margin-left: 14cm;
+   border-radius: 1.2cm;
+   
+
+
+}
+.label1{
+    width: 10cm;
+    margin-left: 3cm;
+    padding-top: 1cm;
+    
+}
+.label2{
+    width: 10cm;
+    margin-left: 3cm;
+    padding-top: 2cm;
+}
+.label23{
+    width: 10cm;
+    margin-left: 3cm;
+    padding-top: 2cm;
+}
+.button{
+    margin-left: 10cm;
+}
