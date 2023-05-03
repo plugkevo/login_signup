@@ -49,7 +49,7 @@ include('sign_up_conn.php')
                 
                 
 
-            <button class="btn btn-secondary" style=" margin-top: 1.5cm; margin-left: 10cm; "type="submit" name="submitButton">Enter</button  >
+            <button class="btn btn-primary " style=" margin-top: 1.5cm; margin-left: 10cm; background-color: #800080; color: black;"type="submit" name="submitButton"> <b>Create</b> </button  >
                    <p>already have an account  <a href="index.php">Login</a> </p>
             </div>
         </form>

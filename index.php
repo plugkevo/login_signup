@@ -29,7 +29,7 @@
                 <label for="password"  class="form-label" style="width: 4cm;">Password</label>
                 <input type="password" class="form-control" name ="password" placeholder="please enter your passsword">
             </div>
-        <button class="btn btn-secondary" style="color: black; margin-top: 1.5cm; margin-left: 10cm; " type= "submit" name = "submitButton">Enter</button  >
+            <button class="btn btn-primary " style=" margin-top: 1.5cm; margin-left: 10cm; background-color: #800080; color: black;"type="submit" name="submitButton"> <b>Login</b> </button  >
         <p>Don't have an account? <a href="sign_up.php">sign up</a></p>
         </div>
 
